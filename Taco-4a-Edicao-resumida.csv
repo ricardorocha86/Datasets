@@ -1,4 +1,4 @@
-Categoria,Descrição dos alimentos,Umidade (%),Energia (kcal),Proteína (g),Lipídeos (g),Carboidrato (g)
+Categoria,Descrição,Umidade,Energia,Proteína,Lipídeos,Carboidrato
 Cereais e derivados,"Arroz, integral, cozido","70,14","123,53","2,59","1,00","25,81"
 Alimentos preparados,Sarapatel,"74,95","122,98","18,47","4,42","1,09"
 Carnes e derivados (Mar),"Merluza, filé, assado","70,73","121,91","26,60","0,92","0,00"
